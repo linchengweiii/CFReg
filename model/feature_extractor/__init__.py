@@ -1,0 +1,1 @@
+from model.feature_extractor.se3_equivariant_network import SE3EquivariantNetwork
